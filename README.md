@@ -1,6 +1,8 @@
 # umeditor_qiniu
 umeditor1.2.2版本上传图片至七牛，目前只支持单图上传。
 
+![](https://github.com/huijimuhe/umeditor_qiniu/blob/master/screenshot/1.png)
+
 ##用法
 
 在Qiniu_upload.class.php中将ak、sk、bucket、domain参数改为自己的即可。
@@ -28,6 +30,7 @@ umeditor1.2.2版本上传图片至七牛，目前只支持单图上传。
 
 ````
 
+另外把网络地址发布给注释掉了，只允许单图上传
 ##说明
 
 Apache License
